@@ -26,7 +26,7 @@ ul {
 }
 
 .box:hover ul {
-  animation: scroll 4s ease-in-out infinite;
+  animation: scroll 4s infinite;
 }
 
 @keyframes scroll {
